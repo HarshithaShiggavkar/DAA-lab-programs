@@ -62,7 +62,7 @@ void printArray(int A[], int size)
 }
 int main()
 {
-	int arr[] = { 12, 11, 13, 5, 6, 7 };
+	int arr[] = { 5,96,845,29,48,36,51,42,58};
 	int arr_size = sizeof(arr) / sizeof(arr[0]);
 
 	printf("Given array is \n");
